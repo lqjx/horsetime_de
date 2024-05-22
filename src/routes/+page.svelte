@@ -1,9 +1,12 @@
 <script lang="ts">
-
-import GlobalNavigation from "$lib/Navigation/GlobalNavigation.svelte";
-import Hero from "$lib/Home/Hero.svelte";
-import Services from "$lib/Home/Services.svelte";
+    import {fade} from "svelte/transition";
+    import Hero from "$lib/Home/Hero.svelte";
+    import Services from "$lib/Home/Services.svelte";
+    import GlobalFooter from "$lib/GlobalFooter.svelte";
 </script>
 
-<Hero/>
-<Services/>
+<div transition:fade>
+    <Hero/>
+    <Services/>
+    <GlobalFooter/>
+</div>

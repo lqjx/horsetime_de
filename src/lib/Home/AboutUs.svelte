@@ -7,6 +7,11 @@
                 <h2>Anja Raven Münster</h2>
                 <p class="">Hier kommt text</p>
             </div>
+            <div>
+                <img src="https://ecfr.eu/wp-content/uploads/2023/04/20220919_Leonard-scaled.jpg?download" alt="Raven Muenster" class="rounded-lg drop-shadow-lg"/>
+                <h2>Leonard Balkan</h2>
+                <p class="">Hier kommt text</p>
+            </div>
         </div>
     </div>
 </section>

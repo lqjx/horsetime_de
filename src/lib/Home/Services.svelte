@@ -1,4 +1,4 @@
-<section class="flex justify-center py-16 text-center bg-red-50/50">
+<section class="flex justify-center py-16 text-center bg-pink-50/50">
     <div class="prose max-w-[1000px]">
         <h1>Unser Angebot</h1>
         <p>

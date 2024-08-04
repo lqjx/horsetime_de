@@ -14,7 +14,6 @@
                     <p>Hier kommt textHier kommt textHier kommt textHier kommt textHier kommt textHier kommt textHier kommt text</p>
                 </div>
             </div>
-            <AboutUsSlider/>
         </div>
     </div>
 </section>

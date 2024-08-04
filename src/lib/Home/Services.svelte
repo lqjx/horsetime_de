@@ -51,6 +51,6 @@
                 </div>
             </div>
         </div>
-        <a href="/login" class="flex w-max m-auto transition no-underline bg-pink-500 text-white p-2 rounded-lg hover:bg-pink-600 active:scale-95 mt-8">Mehr Info</a>
+        <a href="/kontakt" class="flex w-max m-auto transition no-underline bg-pink-500 text-white p-2 rounded-lg hover:bg-pink-600 active:scale-95 mt-8">Jetzt Kontaktieren</a>
     </div>
 </section>

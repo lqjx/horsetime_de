@@ -10,7 +10,7 @@
                     </svg>
                     <p class="font-semibold text-lg">WhatsApp</p>
                 </div>
-                <a href="https://wa.me/15739663432">+49 15739663432</a>
+                <a href="https://wa.me/4915739663432">+49 15739663432</a>
             </div>
             <div class="flex flex-col justify-center items-center w-64">
                 <div class="flex justify-center items-center space-x-1">

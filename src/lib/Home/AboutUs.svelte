@@ -1,6 +1,5 @@
 <script lang="ts">
     import AboutUsTrainer from "$lib/assets/IMG-20240322-WA0033.jpg"
-    import AboutUsSlider from "$lib/Home/AboutUsSlider.svelte";
 </script>
 
 <section class="flex justify-center py-16 text-center p-4">

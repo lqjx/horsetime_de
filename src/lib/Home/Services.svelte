@@ -1,3 +1,10 @@
+<script lang="ts">
+    function scrollDown() {
+        window.scrollBy({top: 10000, behavior: "smooth"});
+
+    }
+</script>
+
 <section class="flex justify-center py-16 text-center bg-pink-50/50">
     <div class="prose max-w-[1000px]">
         <h1>Unser Angebot</h1>
@@ -51,6 +58,6 @@
                 </div>
             </div>
         </div>
-        <a href="/kontakt" class="flex w-max m-auto transition no-underline bg-pink-500 text-white p-2 rounded-lg hover:bg-pink-600 active:scale-95 mt-8">Jetzt Kontaktieren</a>
+        <button on:click={scrollDown} class="flex w-max m-auto transition no-underline bg-pink-500 text-white p-2 rounded-lg hover:bg-pink-600 active:scale-95 mt-8">Jetzt Kontaktieren</button>
     </div>
 </section>

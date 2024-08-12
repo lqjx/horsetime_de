@@ -7,7 +7,7 @@
     <div class="prose max-w-[1000px]">
         <h1>Das sind wir</h1>
         <div class="space-y-4">
-            <div class="flex space-x-4 bg-pink-50/50 p-4 rounded-sm">
+            <div class="flex flex-col md:flex-row space-x-4 bg-pink-50/50 p-4 rounded-sm">
                 <img src="{AboutUsTrainer}" alt="Raven Muenster" class="m-auto rounded-lg drop-shadow-lg w-64"/>
                 <div class="flex flex-col">
                     <h2>Anja Raven Münster</h2>

@@ -1,4 +1,4 @@
-<section id="contact-target" class="flex justify-center py-16 text-center bg-pink-50/50">
+<section id="contact-target" class="flex justify-center py-16 text-center bg-pink-50/50 m-auto max-w-screen min-w-0">
     <div class="max-w-[1000px]">
         <h1 class="text-3xl font-bold pb-8">Kontakt</h1>
         <div class="grid gap-y-4 grid-cols-1 md:grap-y-0 md:grid-cols-2">

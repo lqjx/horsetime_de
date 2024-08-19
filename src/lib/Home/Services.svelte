@@ -8,7 +8,7 @@
 <section class="flex justify-center py-16 text-center bg-pink-50/50">
     <div class="prose max-w-[1000px]">
         <h1>Unser Angebot</h1>
-        <p>
+        <p class="flex min-w-0">
             Auf unserer Website bieten wir vielfältige Reitangebote
             für Anfänger und Fortgeschrittene jeden Alters an. Kindergeburtstage
             gestalten wir zu unvergesslichen Erlebnissen, bei denen die Kleinen
@@ -25,7 +25,7 @@
                     <h3 class="mt-0">Reiten</h3>
                 </div>
                 <div>
-                    <p class="min-w-96 md:min-w-0 md:max-w-96">Unsere Reitstunden ermöglichen Anfängern und Fortgeschrittenen jeden Alters, ihre Fähigkeiten zu verbessern und die Freude am Reiten zu entdecken.</p>
+                    <p class="min-w-0 md:max-w-96">Unsere Reitstunden ermöglichen Anfängern und Fortgeschrittenen jeden Alters, ihre Fähigkeiten zu verbessern und die Freude am Reiten zu entdecken.</p>
                 </div>
             </div>
 

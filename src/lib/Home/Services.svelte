@@ -57,6 +57,21 @@
                     <p class="min-w-96 md:min-w-0 md:max-w-96">Wir bieten Ausbildungen in Pferdepflege, Reittechnik und Sicherheit, um Ihr Wissen und Ihre Fähigkeiten im Umgang mit Pferden zu erweitern.</p>
                 </div>
             </div>
+
+            <div class="bg-white p-4 rounded-lg drop-shadow-md mx-4 md:mx-0">
+                <div class="flex justify-center -mb-3 gap-x-1">
+                    <svg width="32" height="32" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="injected-svg" data-src="https://cdn.hugeicons.com/icons/healtcare-stroke-sharp.svg" xmlns:xlink="http://www.w3.org/1999/xlink" role="img" color="#ec4899">
+                        <path d="M16.2718 2.41372C14.0764 1.22435 12.5 2.97761 12.5 2.97761C12.5 2.97761 10.9236 1.22434 8.72816 2.41371C6.06907 3.85427 5.87812 9.49556 12.5 12C19.1219 9.49556 18.9309 3.85427 16.2718 2.41372Z" stroke="#ec4899" stroke-width="2" stroke-linecap="round"></path>
+                        <path d="M4 14H7L9.5 15.3751H10.5C12 15.3751 13 16.524 13 17.4998L10 18.4998L7 17.4998M12.9993 17L17.2103 15.5963C18.2149 15.2615 19.3064 15.7677 19.6997 16.7509L19.9993 17.5L10.9993 22L4 20.0199" stroke="#ec4899" stroke-width="2"></path>
+                    </svg>
+
+                    <h3 class="mt-0">Therapie Reiten</h3>
+                </div>
+                <div>
+                    <p class="min-w-0 md:max-w-96">
+                        Unser therapeutisches Reiten bietet Unterstützung für Menschen in verschiedenen Lebenslagen, die durch den Umgang mit Pferden neue Perspektiven entdecken möchten.                </div>
+            </div>
+
         </div>
         <button on:click={scrollDown} class="flex w-max m-auto transition no-underline bg-pink-500 text-white p-2 rounded-lg hover:bg-pink-600 active:scale-95 mt-8">Jetzt Kontaktieren</button>
     </div>
